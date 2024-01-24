@@ -9,7 +9,7 @@ An examination to determine the top 5 content categories on Social Buzz.
 In recent years, the customers has grown to an enormous extent and they lack internal resources to manage it.
 Every day, Social Buzz receives over 100,00 post, totalling 36,500,000 post annually. Since all of the content is unstructured, it might be challenging to make it sense of it all.
 them our task are:
-1. Combining the table form the sample Data Set.
+1. Combining the table form the Cleaned Data Set.
 2. An Analysis of their content categories that identifies the top five with the highest total popularity.
 
 Insights are:
